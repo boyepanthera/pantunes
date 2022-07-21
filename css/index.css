@@ -143,7 +143,7 @@ html {
 }
 
 .featured-album {
-  background: url('/images/featured-album.jpeg');
+  background: url('images/featured-album.jpeg');
   width: 100%;
   height: 20rem;
   background-size: 100% 100%;

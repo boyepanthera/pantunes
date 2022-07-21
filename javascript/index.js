@@ -2,10 +2,10 @@ const Slideshow = document.getElementById('slideshow');
 const SlideIndicator = document.getElementById('slide-indicator');
 
 let photoArray = [
-  'url(/images/slide-img-1.jpeg), #ff8a2e',
-  'url(/images/slide-image-2.jpeg)',
-  'url(/images/slide-image-3.jpeg)',
-  'url(/images/slide-image-4.jpeg)',
+  'url(images/slide-img-1.jpeg), #ff8a2e',
+  'url(images/slide-image-2.jpeg)',
+  'url(images/slide-image-3.jpeg)',
+  'url(images/slide-image-4.jpeg)',
 ];
 
 let indicators = [
